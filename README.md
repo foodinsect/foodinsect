@@ -63,7 +63,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foodinsect&hide=assembly&layout=donut)](https://github.com/foodinsect/github-readme-stats)
 
 ## 📫 Contact Me
-- <a href="opqrs0422@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=opqrs0422@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - <a href="https://discord.gg/bEHn9wfU2B"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 - <a href="https://www.instagram.com/long_minjin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.youtube.com/channel/UCoN_x2OV-ufG7FLpuGdG6sA/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
