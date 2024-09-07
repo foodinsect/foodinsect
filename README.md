@@ -54,36 +54,21 @@
 
 
 
-
+<!-- 
 ## 📈 GitHub Stats
 [![Hoooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=foodinsect&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/foodinsect/github-readme-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=foodinsect&theme=dracula" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foodinsect&hide=assembly&layout=donut)](https://github.com/foodinsect/github-readme-stats)
+-->
 
 ## 📫 Contact Me
 - <a href="https://mail.google.com/mail/?view=cm&fs=1&to=opqrs0422@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-- <a href="https://discord.gg/bEHn9wfU2B"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-- <a href="https://www.instagram.com/long_minjin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.youtube.com/channel/UCoN_x2OV-ufG7FLpuGdG6sA/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 - <a href="https://github.com/foodinsect"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
 ---
-
-
-
-### Games
-<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/></a>
-
----
-Made with ❤️ by [Hoooo](https://github.com/foodinsect)
-
-
 <!-- 
 <img src="https://img.shields.io/badge/Made%20with-Vivado-Green?style=for-the-badge&logo=vivado"/></a>
 
